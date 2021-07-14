@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "pt-BR"
+title = "Joga na Conta da Infra"
+
+themesDir = "themes"
+theme = "hugo-winston-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  twitter_handle = "@zerosaaaaaaaaaaataticio"
+
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
+  addFrame = true
+  addDot = true
