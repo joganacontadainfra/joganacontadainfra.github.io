@@ -1,5 +1,5 @@
-baseurl: https://example.com
-languageCode: en-us
+baseurl: https://joganacontadainfra.github.io
+languageCode: pt-BR
 theme: hugo-theme-stack
 paginate: 5
 title: Joga na Conta da Infra
@@ -99,7 +99,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site: jfbueno
+            site: 
 
             # Available values: summary, summary_large_image
             card: summary_large_image
