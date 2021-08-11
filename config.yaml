@@ -37,7 +37,7 @@ params:
         subtitle: Um lugar para falar várias coisas?
         avatar:
             local: true
-            src: img/avatar2.png
+            src: img/coffee.jpg
 
     article:
         math: false
