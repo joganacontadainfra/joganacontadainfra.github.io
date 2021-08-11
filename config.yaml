@@ -26,18 +26,18 @@ params:
     favicon:
 
     footer:        
-        customText: Mantido com ❤ por RSNUG e Joga na Conta da Infra
+        customText: Mantido com ❤ por Joga na Conta da Infra
 
     dateFormat:
         published: Jan 02, 2006
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 👩‍💻
+        emoji: 
         subtitle: Um lugar para falar várias coisas?
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/avatar2.png
 
     article:
         math: false
